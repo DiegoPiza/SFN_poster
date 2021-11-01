@@ -1,5 +1,5 @@
 # Representation of 3D space in marmosets
-These are supplementary materials and figures, to complement our SFN poster on neural recordings in the hippocampus of freely moving marmosets, navigating in 3D.  
+These are supplementary materials and figures, to complement our 2021 SFN poster on neural recordings in the hippocampus of freely moving marmosets, navigating in 3D.  
 
 Front view of the 'Gym'            |  Side view of the 'Gym' 
 :-------------------------:|:-------------------------:
