@@ -10,4 +10,4 @@ Front view of the 'Gym'            |  Side view of the 'Gym'
 
 
 
-# Representation of 3D space in marmosets
+# Marmosets use rapid head movements to explore space
