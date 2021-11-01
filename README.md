@@ -18,9 +18,10 @@ Marmosets have evolved to use head rotations in rapid saccade-like movements(Pan
 
 Rapid head movements            |  Translation movements 
 :-------------------------:|:-------------------------:
-![marm_head_movements](https://user-images.githubusercontent.com/93541319/139729106-17c4c747-c8fd-4ab1-a372-25e89c3630d3.gif) | ![marm_head_movements](https://user-images.githubusercontent.com/93541319/139729106-17c4c747-c8fd-4ab1-a372-25e89c3630d3.gif)
+![marm_head_movements](https://user-images.githubusercontent.com/93541319/139729106-17c4c747-c8fd-4ab1-a372-25e89c3630d3.gif) |  <img src="https://user-images.githubusercontent.com/93541319/139734886-b385ce5c-e8a4-4399-a258-66522e6546ef.gif" width="200" height="100">
 
-<sub><sup>Footage taken by Prof Hannah Buchanan-Smith (https://www.youtube.com/watch?v=a_FBidp7Y18)</sup></sub>
+
+<sub><sup>Footage taken by Prof Hannah Buchanan-Smith (https://www.youtube.com/watch?v=a_FBidp7Y18) and Billabong Zoo, Koala & Wildlife Park (https://www.youtube.com/watch?v=lDJNk4rjqqQ)</sup></sub>
 
 
 <img src="https://user-images.githubusercontent.com/93541319/139725140-c6e56a17-3d22-4aa8-a64b-a82abb065a11.png" width="400" height="500">
