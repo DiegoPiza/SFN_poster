@@ -26,4 +26,5 @@ Rapid head movements            |  Translation movements
 
 <img src="https://user-images.githubusercontent.com/93541319/139725140-c6e56a17-3d22-4aa8-a64b-a82abb065a11.png" width="400" height="500">
 
-Here we show selected trajectory examples where the animals where moving at speeds higher than 4 standard deviations.  
+Here we show selected trajectory examples of a marmoset in the gym when speeds were higher than 4 standard deviations of the mean for both angular (Rapid Head movement) and translation speed. The size of the marker is proportional to the time spent at that location, Red= Angular speed movement, Blue= Translation speed movement and Green = movement with both angular and translational components. We can observe that marmosets alternate between visual exploration and translation exploration.
+
