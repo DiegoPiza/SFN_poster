@@ -30,6 +30,9 @@ Here we show selected trajectory examples of a marmoset in the gym when speeds w
 
 
 # Place and view selectivity examples
+
+
+## Mixed place and view selectivity
 **Place rate map**
 
 ![S20210226PB28_3_place-01](https://user-images.githubusercontent.com/93541319/140786382-16bb04fd-2506-453d-a2c4-e5bf9cf2cf0e.png)
@@ -41,6 +44,18 @@ Here we show selected trajectory examples of a marmoset in the gym when speeds w
 <img src="https://user-images.githubusercontent.com/93541319/140788578-dad07ea5-4479-4f84-99b0-dc3d8bc96b08.png" width="500" height="300">
 
 
+
+## Only view selectivity
+**Place rate map**
+
+![C20190530C28_15](https://user-images.githubusercontent.com/93541319/140806209-578c4eb2-9ad9-412b-a849-068d4dc8d7a1.png)
+
+**Unwrapped view rate map**
+
+<img src="https://user-images.githubusercontent.com/93541319/140806288-a9b8dff2-e41e-44ec-a8ab-d906c22d652d.png" width="500" height="300">
+
+
+## Only place selectivity
 **Place rate map**
 
 ![20210111306_place-01](https://user-images.githubusercontent.com/93541319/140792428-cd0481cb-3845-4a86-afa6-d8304bc53616.png)
