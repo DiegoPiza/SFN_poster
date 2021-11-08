@@ -28,3 +28,20 @@ Rapid head movements            |  Translation movements
 
 Here we show selected trajectory examples of a marmoset in the gym when speeds were higher than 4 standard deviations of the mean for both angular (rapid head movement) and translation speed. The size of the marker is proportional to the time spent at that location, Red= angular speed movement, Blue= translation speed movement and Green = movement with both angular and translational components. We can observe that marmosets alternate between visual exploration and translation exploration.
 
+
+# Place and view selectivity examples
+**Place rate map**
+
+![S20210226PB28_3_place-01](https://user-images.githubusercontent.com/93541319/140786382-16bb04fd-2506-453d-a2c4-e5bf9cf2cf0e.png)
+
+
+
+**Unwrapped view rate map**
+
+<img src="https://user-images.githubusercontent.com/93541319/140788578-dad07ea5-4479-4f84-99b0-dc3d8bc96b08.png" width="500" height="300">
+
+
+
+
+
+
