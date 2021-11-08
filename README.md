@@ -8,6 +8,7 @@ Front view of the 'Gym'            |  Side view of the 'Gym'
 
 <img src="https://user-images.githubusercontent.com/93541319/139712178-60d21343-d128-4e42-b2af-415fbab77901.png" width="500" height="300">
 
+We recorded from the hippocampus (CA1 and CA3) of two adult marmosets (1 female and 1 male). 
 
 
 # Marmosets use rapid head movements to explore space
