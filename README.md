@@ -41,7 +41,12 @@ Here we show selected trajectory examples of a marmoset in the gym when speeds w
 <img src="https://user-images.githubusercontent.com/93541319/140788578-dad07ea5-4479-4f84-99b0-dc3d8bc96b08.png" width="500" height="300">
 
 
+**Place rate map**
+
+![20210111306_place-01](https://user-images.githubusercontent.com/93541319/140792428-cd0481cb-3845-4a86-afa6-d8304bc53616.png)
 
 
+**Unwrapped view rate map**
 
+<img src="https://user-images.githubusercontent.com/93541319/140795195-b7b4f319-f102-476d-a9dd-fb0b8595e03c.png" width="500" height="300">
 
