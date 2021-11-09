@@ -70,6 +70,9 @@ Here we show selected trajectory examples of a marmoset in the gym when speeds w
 
 Single neurons can encode speed of movement, modulation is greater with angular speed movements (rapid head movements) than translation movements. Responses can be positively or negatively correlated.
 
+### Positive Correlation
 <img src="https://user-images.githubusercontent.com/93541319/140999659-b750ba31-0532-4c1c-addd-6ab14c8ee9ac.png" width="700" height="600">
 
+### Negative Correlation
 
+<img src="https://user-images.githubusercontent.com/93541319/141005305-a3dccdfc-b8a1-49b5-ac66-9e75187f750f.png" width="700" height="600">
