@@ -66,3 +66,10 @@ Here we show selected trajectory examples of a marmoset in the gym when speeds w
 
 <img src="https://user-images.githubusercontent.com/93541319/140795195-b7b4f319-f102-476d-a9dd-fb0b8595e03c.png" width="500" height="300">
 
+# Single cell, speed-correlated activity examples
+
+Single neurons can encode speed of movement, modulation is greater with angular speed movements (rapid head movements) than translation movements. Responses can be positively or negatively correlated.
+
+<img src="https://user-images.githubusercontent.com/93541319/140999659-b750ba31-0532-4c1c-addd-6ab14c8ee9ac.png" width="700" height="600">
+
+
